@@ -1,7 +1,7 @@
 <%-- 
     Document   : registration
     Created on : Jul 15, 2016, 9:09:10 PM
-    Author     : jajajajamwant
+    Author     : heera babu
 --%>
 
 <%@page import="java.sql.*"%>
