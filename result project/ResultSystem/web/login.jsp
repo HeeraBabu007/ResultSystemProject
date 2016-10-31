@@ -1,9 +1,3 @@
-<%-- 
-    Document   : login
-    Created on : Jul 15, 2016, 11:09:02 PM
-    Author     : jajajajamwant
---%>
-
 <%@page import="java.sql.*"%>
 <%@page import="java.io.*"%>
 <%@page import="javax.servlet.ServletException"%>
